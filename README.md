@@ -1,4 +1,3 @@
-# week9
 # Poisonous Mushrooms project
 # Mushroom Classification
 
