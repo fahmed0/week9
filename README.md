@@ -1,5 +1,4 @@
-# Poisonous Mushrooms project
-# Mushroom Classification
+# Poisonous Mushrooms Classification
 
 This project aims to predict if a mushroom is poisonous or not, based on its characteristics, using various machine learning models.
 
